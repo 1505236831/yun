@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../helloWorld/helloWorld.iml" filepath="$PROJECT_DIR$/../helloWorld/helloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../helloWorld/hellojava/hellojava.iml" filepath="$PROJECT_DIR$/../helloWorld/hellojava/hellojava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc-day01.iml" filepath="$PROJECT_DIR$/jdbc-day01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jdbc-day02/jdbc-day02.iml" filepath="$PROJECT_DIR$/../jdbc-day02/jdbc-day02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pycTest/pycTest.iml" filepath="$PROJECT_DIR$/../pycTest/pycTest.iml" />
+    </modules>
+  </component>
+</project>

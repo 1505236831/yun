@@ -1,0 +1,4 @@
+com\chinasoft\utils\JDBCUtils.class
+com\chinasoft\springTemplate\JdbcTemplateTest.class
+com\chinasoft\pojo\Emp.class
+com\chinasoft\springTemplate\SpringTemplateDemo1.class
